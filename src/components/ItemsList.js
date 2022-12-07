@@ -47,7 +47,7 @@ const ItemsList = () => {
         >
           <thead className="thead-dark">
             <tr>
-              <th>Pavadinimas</th>
+              <th>Pavadinimasz</th>
               <th>Prekės kodas</th>
               <th>Aprašymas</th>
               <th>Grupė</th>
